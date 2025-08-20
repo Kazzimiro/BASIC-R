@@ -30,11 +30,16 @@ Interação Genótipo x Ambiente (GxA) Significativa: Foi constatado que os gen�
 Precisão Experimental: O Coeficiente de Variação (CV) do experimento foi de aproximadamente 27%, indicando uma precisão experimental de nível médio, o que é aceitável para experimentos conduzidos a campo.
 
 4. Estrutura do Repositório
-/
-├── README.md         # Este arquivo de apresentação
-├── script_analise.R  # Script R completo com todos os passos da análise
-└── data/
-    └── data.txt      # Conjunto de dados brutos utilizado no script
+
+    4.1  README.md         # Este arquivo de apresentação
+
+    4.2 script_analise.R  # Script R completo com todos os passos da análise
+
+    4.3 data/
+
+    4.4 data.txt      # Conjunto de dados brutos utilizado no script
+
+
 5. Como Utilizar
 Para replicar esta análise, siga os passos:
 
